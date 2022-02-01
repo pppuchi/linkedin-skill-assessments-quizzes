@@ -565,7 +565,7 @@
 
 #### Q79. Which type of goal allows you to specifiy a funnel?
 
-- [ ] Destination
+- [x] Destination
 - [ ] Duration
 - [ ] Pages/Screens per Session
 - [ ] Event
